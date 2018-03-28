@@ -8,7 +8,14 @@ import java.io.*;
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+Login()
+{
+choice;
+send pw;
+send usr;
+asdasd
 
+}
 /**
  *
  * @author Bradley Evans
@@ -26,5 +33,11 @@ public class Client {
         String data = inFromServer.readUTF();
         System.out.println("Server said: " + data);
         server.close();
+        
+       un= Homepage.UsernameTxtField.getText();
+        pw = Homepage.UsernameTxtField.getText();
+        {
+         String data = ots.wUTF();
+    }
     }
 }

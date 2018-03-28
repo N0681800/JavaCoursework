@@ -148,6 +148,6 @@ public class Homepage extends javax.swing.JFrame {
     private javax.swing.JLabel PasswordLabel;
     private javax.swing.JButton RegisterButton;
     private javax.swing.JLabel UsernameLabel;
-    private javax.swing.JTextField UsernameTxtField;
+    public static javax.swing.JTextField UsernameTxtField;
     // End of variables declaration//GEN-END:variables
 }
